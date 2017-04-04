@@ -21,7 +21,8 @@ crawler.on('fetchcomplete', function(queueItem, responseBuffer, response) {
         // parse html 轉成可以透過 cheerio 操作的格式
         var $ = cheerio.load(responseBuffer);
         // 取得值
-        var title = $('h1').html();
+        // var title = $('h1').html();
+        var title = [];
 
 
 
