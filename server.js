@@ -46,5 +46,13 @@ crawler.start();
 //＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 //＝＝＝＝＝＝＝＝＝＝＝＝＝Gossiping第二層的架構＝＝＝＝＝＝＝＝＝＝＝＝＝
-// 
+// main-content
+    // article-metaline
+    //     article-meta-value
+    // article-metaline
+    //     article-meta-value
+    // push
+    //     f3 push-content
+    //     push-ipdatetime
+
 //＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
